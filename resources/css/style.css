@@ -1,0 +1,12 @@
+html,body{
+	background-color: #bbb;
+}
+.block{
+	margin-top: 1%;
+	background: #ccc;
+	width: 90%;
+	height: 250px;
+}
+.form-control{
+	width: 60%;
+}
